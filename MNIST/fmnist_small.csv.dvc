@@ -1,0 +1,5 @@
+outs:
+- md5: ec6a22a965ef66065b92de63470457e0
+  size: 13317867
+  hash: md5
+  path: fmnist_small.csv
