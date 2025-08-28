@@ -1,0 +1,5 @@
+outs:
+- md5: 172aa72a252a7654d0b8282eb7908d0d
+  size: 2027644
+  hash: md5
+  path: riceClassification.csv
